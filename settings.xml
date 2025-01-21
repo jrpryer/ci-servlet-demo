@@ -3,7 +3,10 @@
   <interactiveMode />
   <offline />
   <pluginGroups />
-  <servers />
+  <servers>
+   <server>
+    MEEEEE!
+   </server>
   <mirrors />
   <proxies />
   <profiles />
